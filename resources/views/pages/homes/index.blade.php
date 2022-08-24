@@ -1,6 +1,9 @@
 <x-app-layout>
   <div class="home-section">
-    <h1 class="h1 text-center">SiCoding - Judul home</h1>
+    <h1 class="h1 text-center">SiCoding - Judul Home</h1>
+    <p>
+      Halaman Home
+    </p>
     <p>
       Lorem ipsum, dolor sit amet consectetur adipisicing elit. Libero impedit possimus eaque quas tempora omnis
       incidunt fugit ipsum tempore odio non nulla laboriosam, rem veniam illo sit similique, dolorem qui?
