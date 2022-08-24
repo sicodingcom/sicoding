@@ -1,7 +1,7 @@
 <x-app-layout title="Home Page">
   <div class="home-section">
     <h1 class="h1 text-center">Home Page</h1>
-    <a href="https://web.whatsapp.com" class="btn btn-success">Whatsapp</a>
+    <a href="https://web.whatsapp.com" target="_blank" class="btn btn-success">Whatsapp</a>
 
     <p>
       Lorem ipsum, dolor sit amet consectetur adipisicing elit. Libero impedit possimus eaque quas tempora omnis
