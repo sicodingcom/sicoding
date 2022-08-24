@@ -1,9 +1,7 @@
-<x-app-layout>
+<x-app-layout title="Home Page">
   <div class="home-section">
-    <h1 class="h1 text-center">SiCoding - Judul Home</h1>
-    <p>
-      Halaman Home
-    </p>
+    <h1 class="h1 text-center">Home Page</h1>
+
     <p>
       Lorem ipsum, dolor sit amet consectetur adipisicing elit. Libero impedit possimus eaque quas tempora omnis
       incidunt fugit ipsum tempore odio non nulla laboriosam, rem veniam illo sit similique, dolorem qui?
@@ -17,7 +15,6 @@
 </x-app-layout>
 
 @push('meta')
-  <title>SiCoding - Judul</title>
   <meta name="description"
     content="Lorem ipsum, dolor sit amet consectetur adipisicing elit. Libero impedit possimus eaque quas tempora omnis incidunt fugit ipsum tempore odio non nulla laboriosam, rem veniam illo sit similique, dolorem qui?">
   <meta name="keywords" content="Lorem ipsum, dolor sit, amet consectetur, adipisicing elit, Libero impedit, possimus">
